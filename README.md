@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LordLeonardo1
-- 👀 I’m interested in programming, world's history, philosophy of law, "Minecraft" etc.
+- 👀 I’m interested in programming, reading books, world's history, philosophy of law, "Minecraft" etc.
 - 🌱 I’m currently learning programming language "Python", school stuff, jurisprudence
 - 💞️ I’m looking to collaborate on [???]
 
